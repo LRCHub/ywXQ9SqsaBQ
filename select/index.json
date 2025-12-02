@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ずんだパーリナイ",
+  "base_artist": "なみぐる",
+  "createdAt": "2025-12-02T12:20:43.241944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ずんだパーリナイ",
+      "artist": "namigroove",
+      "has_synced": true,
+      "path": "select/01_ずんだパーリナイ_namigroove.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずんだパーリナイ",
+      "artist": "なみぐる",
+      "has_synced": false,
+      "path": "select/pl_01_ずんだパーリナイ_なみぐる.txt"
+    }
+  ]
+}
